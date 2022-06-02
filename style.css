@@ -1,0 +1,98 @@
+.landingp{
+    height:100%;
+    background-color: 
+    #00092C !important ;
+    background: no-repeat center center ;
+    padding-top: 13%;
+    padding-bottom: 20%;
+    color: whitesmoke;
+    border-color: #00FFDD;
+}
+
+.navbar-edit{
+    background-color: 
+    #00092C !important;
+    margin: auto;
+    border-bottom: 2px solid 
+    #00FFDD;
+    padding: 15;
+}
+
+.selamat-datang{
+    font-family: poppins;
+    font-style: regular;
+    font-size: 23px;
+    line-height: 23px;
+    line-height: 100%;
+    vertical-align: top;
+    padding-bottom: 2%;
+}
+
+.web{
+    font-family: montserrat;
+    font-style: bold;
+    font-size: 50px;
+    line-height: 61px;
+    line-height: 100%;
+    vertical-align: top;
+}
+
+
+.divider{
+    height: 0.2rem;
+    max-width: 8rem;
+    margin: 1.5rem auto;
+    background-color: #00FFDD;
+    opacity: 1;
+    border: none;
+}
+
+.info{
+    font-family: poppins;
+    font-style: semibold;
+    font-size: 17px;
+    line-height: 26px;
+    line-height: 100%;
+    vertical-align: top;
+}
+
+.button-start{
+    background: #D9D9D9;
+    border-radius: 100px;
+    height: 40px;     
+}
+
+
+.banner{
+    background-color: #00092C;
+}
+
+.login{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+
+}
+.login-form{
+    height: 500px;
+    width: 430px;
+    padding: 0 35px;
+    background-color: white;
+    border: none;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+input[type="email"], input[type="password"] {
+    border-radius: 20px;
+}
+
+.btn-login{
+    height: 35px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
